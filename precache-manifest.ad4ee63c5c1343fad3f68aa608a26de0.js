@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "791e07bbc835932e0c4feee7bf651d61",
+    "revision": "d337fefad5c226d886ecc71d5a9d62cf",
     "url": "./index.html"
   },
   {
-    "revision": "3d545eefd979f8afda34",
+    "revision": "517128c7c112a808ff99",
     "url": "./static/css/main.97d072a4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.2f19dc4c.chunk.js"
   },
   {
-    "revision": "3d545eefd979f8afda34",
-    "url": "./static/js/main.6bcfd59a.chunk.js"
+    "revision": "517128c7c112a808ff99",
+    "url": "./static/js/main.e72853bd.chunk.js"
   },
   {
     "revision": "e45b99fbf74055761ef0",
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
-    "revision": "ebc4cdcdeb035a78e945da269db6ae3e",
-    "url": "./static/media/nikola_petrovic.ebc4cdcd.png"
+    "revision": "82a2d5f858709781aef7de35473cc1e0",
+    "url": "./static/media/nikola_petrovic.82a2d5f8.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
