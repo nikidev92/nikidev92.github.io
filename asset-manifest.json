@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.86856540.css",
+    "main.css": "/static/css/main.c26a5fe5.css",
     "main.js": "/static/js/main.fda26551.js",
     "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
     "static/media/ohioapp.png": "/static/media/ohioapp.b82e57ca20bccb34e22d.png",
@@ -24,11 +24,11 @@
     "static/media/globe2.svg": "/static/media/globe2.49f76029015fad74a47a3551b2ae34fa.svg",
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.049a66df24a80bf61f1a560bf8be92f2.svg",
-    "main.86856540.css.map": "/static/css/main.86856540.css.map",
+    "main.c26a5fe5.css.map": "/static/css/main.c26a5fe5.css.map",
     "main.fda26551.js.map": "/static/js/main.fda26551.js.map"
   },
   "entrypoints": [
-    "static/css/main.86856540.css",
+    "static/css/main.c26a5fe5.css",
     "static/js/main.fda26551.js"
   ]
 }
